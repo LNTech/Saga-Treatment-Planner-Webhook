@@ -1,0 +1,10 @@
+{
+    "url": "",
+    "username": "",
+    "password": "",
+    "webhooks": {        
+        "treatment_start_time": "",
+        "companion_start_time": ""
+    }
+
+}
